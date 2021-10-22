@@ -2,10 +2,8 @@
             Media Query
  -----------------------------------*/
  
-/* am setat breaking-point --> diferite dimensiuni de ecrane unde designe-ul se modifica in functie de spatiul available */
  
 @media all and (max-width: 1420px) {
-    /* pt dispozitive cu LATIMEA MAXIMA DE 1200PX */
     .container {
         padding-left: 30px;
         padding-right: 30px;
@@ -13,13 +11,10 @@
 }
  
 @media all and (max-width: 1200px) {
-    /* pt dispozitive cu LATIMEA MAXIMA DE 1200PX */
     /* Everything acceptable */
 }
  
 @media all and (max-width: 991px) {
- 
-    /* pt dispozitive cu LATIMEA MAXIMA DE 991px */
  /* Everything acceptable */
 }
  
@@ -66,7 +61,6 @@
 }
  
 @media all and (max-width: 480px) {
-    /* pt dispozitive cu LATIMEA MAXIMA DE 480PX */
     .container {
         padding-left: 15px;
         padding-right: 15px;
@@ -94,7 +88,6 @@
 }
  
 @media all and (max-width: 320px) {
-    /* pt dispozitive cu LATIMEA MAXIMA DE 320PX */
     /* Everything acceptable */
 }
 
